@@ -8,7 +8,7 @@ This app is designed to visualize the biodiversity specifically in Poland. The a
 
 This app is divided into two parts first is the preprocessing of data and then The goal of this project is to create a Shiny dashboard that allows users to visualize species observations on a map. The app will enable users to search for species by either their scientific name or common name, and then display their occurrence on an interactive map and timeline. On the backend, the app should be built using Shiny modules for better structure and maintainability. It will also be tested for various use cases to ensure functionality. The app will be deployed to https://www.shinyapps.io/ for public access, and the entire solution will be shared on GitHub for collaboration and further development.
 
-##Technologies Used
+## Technologies Used
 R: Programming language used for data processing and Shiny app development.
 Shiny: R package for building interactive web applications.
 Leaflet: R package used to create interactive maps.
